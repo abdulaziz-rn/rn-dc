@@ -1,4 +1,3 @@
-/// <reference types="react" />
 import { AxiosPromise, AxiosRequestConfig, AxiosResponse } from 'axios';
 export type PromiseCallback<T> = {
     readonly resolve: (result: T) => void;
