@@ -1,6 +1,6 @@
 {
   "name": "sanar-dynamic-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "⚛️  🌌 Inter-dimensional Portals for React Native. 👽 🖖",
   "main": "dist",
   "scripts": {
